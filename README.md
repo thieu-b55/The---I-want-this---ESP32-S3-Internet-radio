@@ -1,4 +1,4 @@
-# THE---I-want-this---ESP32-S3-Internet-radio
+# The---I-want-this---ESP32-S3-Internet-radio
 
 WiFi or Ethernet connection, can be selected at start-up
 
@@ -6,11 +6,11 @@ WiFi or Ethernet connection, can be selected at start-up
 
 With Ethernet connection, local ESP32 network to operate internet radio
 
-Network ESP32webradio
+Network:    ESP32webradio
 
-Password ESP32pswd
+Password:   ESP32pswd
 
-address 192.168.4.1
+address:    192.168.4.1
 
 +++++
 
@@ -21,6 +21,8 @@ About 50 completed
 +++++
 
 4” TFT Touch screen
+
+burn-in protection
 
 +++++
 
@@ -54,7 +56,7 @@ absolutely interference-free
 
 Control via
 
-web page
+web page -> smartphone / desktop PC / laptop easy to use at the office
 
 2 rotary encoders
 
@@ -70,6 +72,8 @@ Network password
 
 local time zone
 
+ntp server
+
 freely selectable IP address (within range of your own router)
 
 +++++
@@ -80,7 +84,7 @@ https://github.com/schreibfaul1/ESP32-audioI2S
 
 +++++
 
-With volume and equalizer control (webpage)
+With volume and equalizer(webpage) control
 
 +++++
 
@@ -98,5 +102,9 @@ Internet_ETH_WiFi.bin file present on Github page can easily be programmed in th
 
 ALWAYS a working software version
 
-
 https://docs.espressif.com/projects/esptool/en/latest/esp32/installation.html#installation
+
+
+
+
+

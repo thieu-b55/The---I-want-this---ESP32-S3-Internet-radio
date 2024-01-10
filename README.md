@@ -56,7 +56,7 @@ absolutely interference-free
 
 Control via
 
-web page -> smartphone / desktop PC / laptop easy to use at the office
+web page -> smartphone / desktop PC / laptop  conveniently in the office or workplace
 
 2 rotary encoders
 

@@ -1,0 +1,40 @@
+Install esptool.py
+
+https://docs.espressif.com/projects/esptool/en/latest/esp32/installation.html#installation
+https://randomnerdtutorials.com/flashing-micropython-firmware-esptool-py-esp32-esp8266/
+or find YouTube instructions on the internet
+
+
+after installation
+
+connect ESP32-S3
+
+
+in bin folder :
+
+open terminal
+
+
+copy :
+
+esptool.py -b921600 write_flash 0x0000 Internet_ETH_WiFi.bin
+
+in terminal and <enter>
+
+or 
+
+copy :
+
+esptool.py -b921600 --port /dev/ttyACM0 write_flash 0x0000 Internet_ETH_WiFi.bin
+
+in terminal
+
+
+replace /dev/ttyACM0 with your USB connection
+
+<enter>
+
+
+that's it
+
+have fun

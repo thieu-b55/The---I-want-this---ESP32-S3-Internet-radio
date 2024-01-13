@@ -2,13 +2,13 @@ Install esptool.py
 
 https://docs.espressif.com/projects/esptool/en/latest/esp32/installation.html#installation
 https://randomnerdtutorials.com/flashing-micropython-firmware-esptool-py-esp32-esp8266/
+
 or find YouTube instructions on the internet
 
 
-after installation
+after installation esptool.py
 
 connect ESP32-S3
-
 
 in bin folder :
 
